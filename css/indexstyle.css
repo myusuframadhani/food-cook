@@ -1,0 +1,4 @@
+.zoom:hover{
+    transition: 0.4s ease;
+    transform: scale(1.04);
+}
